@@ -1,0 +1,24 @@
+body{
+     color: darkgoldenrod;
+}
+h2 {
+     color: red;
+    background-color: pink;
+    }
+h3 {
+     color: green;
+background-color: black;
+}
+ul{
+     color: aqua;
+    }
+ol{
+background-color: chartreuse;
+}
+#parrafounico {
+     color: #2b65e275;
+}
+/*seleccionar por clase*/
+.dorado {
+     color: gold;
+}
